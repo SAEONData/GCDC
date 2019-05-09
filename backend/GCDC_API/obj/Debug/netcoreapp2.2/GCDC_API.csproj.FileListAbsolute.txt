@@ -1,0 +1,14 @@
+D:\PROJECTS\SAEON\global-change-data-centre\backend\GCDC_API\bin\Debug\netcoreapp2.2\GCDC_API.deps.json
+D:\PROJECTS\SAEON\global-change-data-centre\backend\GCDC_API\bin\Debug\netcoreapp2.2\GCDC_API.runtimeconfig.json
+D:\PROJECTS\SAEON\global-change-data-centre\backend\GCDC_API\bin\Debug\netcoreapp2.2\GCDC_API.runtimeconfig.dev.json
+D:\PROJECTS\SAEON\global-change-data-centre\backend\GCDC_API\bin\Debug\netcoreapp2.2\GCDC_API.dll
+D:\PROJECTS\SAEON\global-change-data-centre\backend\GCDC_API\bin\Debug\netcoreapp2.2\GCDC_API.pdb
+D:\PROJECTS\SAEON\global-change-data-centre\backend\GCDC_API\obj\Debug\netcoreapp2.2\GCDC_API.csprojAssemblyReference.cache
+D:\PROJECTS\SAEON\global-change-data-centre\backend\GCDC_API\obj\Debug\netcoreapp2.2\GCDC_API.csproj.CoreCompileInputs.cache
+D:\PROJECTS\SAEON\global-change-data-centre\backend\GCDC_API\obj\Debug\netcoreapp2.2\GCDC_API.RazorAssemblyInfo.cache
+D:\PROJECTS\SAEON\global-change-data-centre\backend\GCDC_API\obj\Debug\netcoreapp2.2\GCDC_API.RazorAssemblyInfo.cs
+D:\PROJECTS\SAEON\global-change-data-centre\backend\GCDC_API\obj\Debug\netcoreapp2.2\GCDC_API.AssemblyInfoInputs.cache
+D:\PROJECTS\SAEON\global-change-data-centre\backend\GCDC_API\obj\Debug\netcoreapp2.2\GCDC_API.AssemblyInfo.cs
+D:\PROJECTS\SAEON\global-change-data-centre\backend\GCDC_API\obj\Debug\netcoreapp2.2\GCDC_API.RazorTargetAssemblyInfo.cache
+D:\PROJECTS\SAEON\global-change-data-centre\backend\GCDC_API\obj\Debug\netcoreapp2.2\GCDC_API.dll
+D:\PROJECTS\SAEON\global-change-data-centre\backend\GCDC_API\obj\Debug\netcoreapp2.2\GCDC_API.pdb
